@@ -3,4 +3,5 @@
 
 Labortationer i kursen 1ik415
 
-Detta är mitt webbtekniska introduktions rum
+Detta är mitt webbtekniska introduktions rum för linnéuniversitetet
+git config --global push.default simple
